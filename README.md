@@ -80,10 +80,10 @@
 
 <div align="center">
   <p>
-    <a href="https://www.linkedin.com/in/noelbri/" target="_blank">
+    <a href="https://www.linkedin.com/in/noel-brighton-6700b130b/?trk=opento_sprofile_topcard" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:noelbri@example.com">
+    <a href="noelowaga5@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
